@@ -1,2 +1,2 @@
-# CDavis-ghPages-Portfolio
-My Portfolio Page - deployed using GitHub Pages
+# My Portfolio Page
+Check out my cool projects and my resume...
